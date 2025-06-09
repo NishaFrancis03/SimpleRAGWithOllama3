@@ -1,0 +1,1 @@
+ChatGPT is a conversational AI developed by OpenAI. It uses large language models like GPT-4 to generate human-like responses. It can help users with answering questions, writing content, coding, and more.
